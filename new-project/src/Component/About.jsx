@@ -1,14 +1,9 @@
 import React from 'react';
 import { Container, Row, Col, Image, Card } from 'react-bootstrap';
-// import 'aos/dist/aos.css';
-//  import AOS from 'aos';
-// import { useEffect } from 'react';
-//  import RollRoyce from './src/assets/RollsRoyce.png';
+
 
 const AboutUs = () => {
-//   useEffect(() => {
-//     AOS.init({ duration: 1000 });
-//   }, []);
+
 
   return (
     <Container fluid className="bg-transparent text-light py-5">

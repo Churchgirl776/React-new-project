@@ -39,7 +39,7 @@ const Fleet = () => {
   return (
     <Container className="my-5">
       {/* Title */}
-      <h2 className="text-center mb-4">Our Luxury Fleet</h2>
+      <h2 className="text-center text-white mb-4">Our Luxury Fleet</h2>
 
       <Carousel interval={2000} indicators={true} controls={true} fade>
         {luxuryCars.map((car, idx) => (
